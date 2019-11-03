@@ -1,1 +1,2 @@
-In curs de dezvoltare.
+Second version of the DriveJR Project.
+
